@@ -1,0 +1,43 @@
+#title {
+    color: red;
+    font-size: 65px;
+    font-family: inherit;
+    box-shadow: 1px -10px 40px;
+    background-color: pink;
+    border-radius: 1500px;
+}
+
+#subtitle {
+    color: red;
+    font-size: 35px;
+    font-family: inherit;
+}
+
+#response {
+    color: red;
+    font-size: 35px;
+    font-family: inherit;
+}
+
+#message {
+    color: red;
+    font-size: 20px;
+    font-family: inherit;
+}
+
+#principalButton {
+    font-size: 17.5px;
+    font-family: serif;
+    background-color: red;
+    border-radius: 3px;
+    border: solid 2px;
+}
+
+#firstName, #secondName {
+    border: solid 2px red;
+    border-radius: 10px;
+}
+
+* {
+    background-color: pink;
+}
